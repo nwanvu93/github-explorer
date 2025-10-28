@@ -1,7 +1,5 @@
 # Github Explorer
-- decisions/trade-offs you made
-- what you’d do next with more time.
-- video demo for app
+by Vu nguyen
   
 ### What decisions did I make?
 - Applied the MVVM architecture for this demo.
@@ -20,4 +18,4 @@ Applying MVVM and Clean Architecture to a project with only a few features makes
 I would look for a better approach to data caching instead of using simple key-value storage with MMKV as I currently do.
 
 ### Demo video
-![](demo.mp4)
+[https://github.com/nwanvu93/github-explorer/raw/refs/heads/main/demo.mp4](https://github.com/nwanvu93/github-explorer/raw/refs/heads/main/demo.mp4)
